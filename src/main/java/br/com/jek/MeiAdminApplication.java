@@ -1,4 +1,4 @@
-package com.jek.mei_admin;
+package br.com.jek;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package com.jek.mei_admin.exception;
+package br.com.jek.exception;
 
 import java.util.Date;
 

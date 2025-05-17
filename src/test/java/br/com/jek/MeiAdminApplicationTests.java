@@ -1,4 +1,4 @@
-package com.jek.mei_admin;
+package br.com.jek;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
